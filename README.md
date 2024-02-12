@@ -1,5 +1,6 @@
 # Orchestrating Breast Cancer Prediction with Accuracy and Care
 
+![General-classification-hyperplane-representation-of-SVM-algorithm](https://github.com/Rutuja-Salunke/Breast-cancer-prediction-using-SVM/assets/102023809/d8e9c69f-f174-4208-930d-e8fd12d155ae)
 
 ## Overview
 
