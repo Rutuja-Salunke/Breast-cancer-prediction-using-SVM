@@ -2,12 +2,14 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm that can
 
 1. **Objective:**
    - The main objective of SVM is to find a hyperplane in an N-dimensional space (where N is the number of features) that distinctly classifies data points into different classes. In a two-dimensional space, this hyperplane is a line; in three dimensions, it becomes a plane, and in higher dimensions, it is referred to as a hyperplane.
-![Operation-Flow-Chart-of-the-SVM-Model](https://github.com/Rutuja-Salunke/Breast-cancer-prediction-using-SVM/assets/102023809/1fe83173-d319-4e7d-88e3-b31679035a32)
-![1_ip8s18tMkZzM0pzsGuUN0Q](https://github.com/Rutuja-Salunke/Breast-cancer-prediction-using-SVM/assets/102023809/4b582b07-e410-46f7-b564-191c90fb62b1)
-![Support-Vector-MachineSVM-in-Machine-Learning-675x506](https://github.com/Rutuja-Salunke/Breast-cancer-prediction-using-SVM/assets/102023809/ca59d794-fdc8-4d3b-9c53-93550b3f2fba)
+   - ![Operation-Flow-Chart-of-the-SVM-Model](https://github.com/Rutuja-Salunke/Breast-cancer-prediction-using-SVM/assets/102023809/1fe83173-d319-4e7d-88e3-b31679035a32)
+
+
 
 2. **Hyperplane:**
    - In the context of classification, a hyperplane is a decision boundary that separates the data points of one class from another. The goal is to find the hyperplane with the maximum margin, which is the distance between the hyperplane and the nearest data point from each class. SVM aims to maximize this margin, providing a robust separation between classes.
+   - 
+![1_ip8s18tMkZzM0pzsGuUN0Q](https://github.com/Rutuja-Salunke/Breast-cancer-prediction-using-SVM/assets/102023809/4b582b07-e410-46f7-b564-191c90fb62b1)
 
 3. **Support Vectors:**
    - Support Vectors are the data points that lie closest to the hyperplane. These are crucial in defining the position and orientation of the hyperplane. SVM gets its name because these support vectors support the hyperplane in the sense that if you remove them, the position of the hyperplane might change.
